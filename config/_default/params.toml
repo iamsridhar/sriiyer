@@ -12,7 +12,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "sridhar" 
+logo_text = "sridhar"
 
 # navbar fixed to top
 navbar_fixed = true
@@ -38,10 +38,10 @@ enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
-# [navigation_button]
-# enable = true
-# label = "get a quote"
-# link = "contact"
+[navigation_button]
+enable = false
+label = "get a quote"
+link = "contact"
 
 # search
 [search]
