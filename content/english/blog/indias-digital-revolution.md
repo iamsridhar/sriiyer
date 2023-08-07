@@ -1,13 +1,16 @@
 ---
-title: "India's digital payments revolution"
-meta_title: "How India has gone digital at breakneck speed"
-description: "One of the world's biggest success stories"
+title: India's digital payments revolution
+meta_title: How India has gone digital at breakneck speed
+description: One of the world's biggest success stories
 date: 2022-07-21T05:00:00Z
-# image: "/images/digital-payments-blog/hugoblog_1.png"
-categories: ["Tech"]
-author: "Sridhar Iyer"
-tags: ["payments", "india"]
+categories:
+  - Tech
+author: Sridhar Iyer
+tags:
+  - payments
+  - india
 draft: false
+slug: india-digital-payments-revolution
 ---
 
 {{< image src="/images/digital-payments-blog/hugoblog_1.png" position="float-right" width="300px" height="400px" caption="QR payment code in a mom-and-pop store" >}}

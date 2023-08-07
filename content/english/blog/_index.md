@@ -1,5 +1,6 @@
 ---
-title: "Blog Posts"
+title: Blog Posts
 meta_title: ""
-description: "thoughts"
+description: thoughts
+slug: blog-posts
 ---

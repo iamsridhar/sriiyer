@@ -1,10 +1,13 @@
 ---
-title: "The Joy of Teaching Programming"
+title: The Joy of Teaching Programming
 date: 2023-07-24T17:26:37-07:00
-categories: ["Life"]
-author: "Sridhar Iyer"
-tags: ["tech"]
+categories:
+  - Life
+author: Sridhar Iyer
+tags:
+  - tech
 draft: false
+slug: joy-teaching-programming
 ---
 
 I started teaching my young kids to code this summer, and was recollecting a bit of my own journey with programming.
