@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "sridhar iyer"
-  content: "life, work, tech, and everything in between"
+  content: "life, work, tech"
   image: "/images/banner.png"
 Comment:
   button:
