@@ -7,11 +7,7 @@ layout: "about"
 draft: false
 ---
 
-I believe in the transformative power of technology in creating a better world for people, and I’m excited and optimistic about the incredible possibilities it holds.
-
-Over the years, I’ve been fortunate to work on some of the world’s most impactful products, like the Windows Operating System, Bing Search, Twitter, Facebook, to now building Reels and short-form-video for Instagram.
-
-When I’m not geeking out over tech, you can find me enjoying life in the beautiful Pacific Northwest with my family.
+I believe in the power of technology to make the world a better place for people. I've been lucky enough to work on some amazing products like Windows, Bing, Twitter, Facebook, to now building Reels and short-form video for Instagram. When I'm not nerding out over tech, you can find me soaking up the beauty of the Pacific Northwest with my family.
 
 ##### Work:
 {{< tabs >}}

@@ -4,11 +4,11 @@ banner:
   title: "sridhar iyer"
   content: "life, work, tech"
   image: "/images/banner.png"
-Comment:
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+# Comment:
+#  button:
+#    enable: true
+#    label: "Get Started For Free"
+#    link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 
