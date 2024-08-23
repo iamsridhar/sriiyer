@@ -7,7 +7,7 @@ layout: "about"
 draft: false
 ---
 
-I believe in the power of technology to make the world a better place for people. I've been lucky enough to work on some amazing products like Windows, Bing, Twitter, Facebook, to now building Reels and short-form video for Instagram. When I'm not nerding out over tech, you can find me soaking up the beauty of the Pacific Northwest with my family.
+I’m all about leveraging tech to make a real difference. Over the years, I’ve had the chance to work on some iconic products like Windows, Bing, Twitter, and Facebook. Now, I’m at Instagram, leading the charge on all things content creation—Reels, videos, posts, you name it. I’ve been around the block in this industry, but when I’m not building the future of social media, I’m out exploring the Pacific Northwest with my family. It’s all about finding that perfect mix of innovation and adventure!
 
 ##### Work:
 {{< tabs >}}
