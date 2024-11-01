@@ -7,7 +7,7 @@ layout: "about"
 draft: false
 ---
 
-I’m all about leveraging tech to make a real difference. Over the years, I’ve had the chance to work on some iconic products like Windows, Bing, Twitter, and Facebook. Now, I’m at Instagram, leading the charge on all things content creation—Reels, videos, posts, you name it. I’ve been around the block in this industry, but when I’m not building the future of social media, I’m out exploring the Pacific Northwest with my family. It’s all about finding that perfect mix of innovation and adventure!
+A technologist at heart, and that's about all I know to do. Been lucky to have had the chance to work on some iconic products like Windows, Bing, Twitter, and Facebook. At Instagram, leading the charge on all things content creation—Reels, posts, carousels, etc. I live in the beautiful Pacific Northwest with my family, and try to get in a hike or two when it's not raining :-)
 
 ##### Work:
 {{< tabs >}}
