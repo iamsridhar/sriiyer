@@ -11,12 +11,18 @@ A technologist at heart, and that's about all I know to do. Been lucky to have h
 
 ##### Work:
 {{< tabs >}}
-{{< tab "Instagram" >}}
+{{< tab "Meta AI" >}}
 
+##### Meta AI
+Can't say too much about what I'm working on, but we've got some stuff cookin', y'all. Will be able to talk soon about the AI magic we have up our sleeves :-)
+
+{{< /tab >}}
+
+
+{{< tab "Instagram" >}}
 ##### Instagram Reels
 
 As the Head of Engineering for Instagram Reels, my team and I are on a mission to revolutionize short-form video content and make Instagram the world’s best place to share fun videos that inspire people to join in and connect with friends over entertaining content.
-*Hit me up if you want to join us!*
 
 {{< /tab >}}
 
